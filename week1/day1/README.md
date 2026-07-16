@@ -63,3 +63,5 @@ Ajit Pawar is an Indian politician...
 ## Learning Outcome
 
 This project provided a practical introduction to integrating a Large Language Model into a Python application. It helped me understand how to authenticate with an AI API, send prompts, process responses, and build the foundation for more advanced LLM-based applications.
+
+Deepali - today i am sad(rn listening song and pushing readme file and thinking about you).
