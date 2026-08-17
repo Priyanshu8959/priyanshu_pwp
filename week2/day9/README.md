@@ -147,11 +147,11 @@ Generate → Receive Chunk → Generate → Receive Chunk → ...
 
 Streaming is commonly used in:
 
-* Chatbots
-* AI assistants
-* Coding assistants
-* Customer support systems
-* Real-time AI applications
+- Chatbots
+- AI assistants
+- Coding assistants
+- Customer support systems
+- Real-time AI applications
 
 It makes the application feel **faster and more responsive**.
 
