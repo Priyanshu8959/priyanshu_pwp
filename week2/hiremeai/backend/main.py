@@ -34,7 +34,7 @@ app = FastAPI(title="HireMeAI API")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "*",
+        "*",  # TODO: replace "*" with your deployed frontend URL, e.g. "https://hiremeai.vercel.app"
         "http://127.0.0.1:5173",
         "http://localhost:3000",
     ],
@@ -278,8 +278,8 @@ def chat(request: ChatRequest):
 
     try:
 
-        # Resume location
-        resume_path = Path("my_resume.pdf")
+        # Resume location — resolved relative to this file, not CWD
+        resume_path = Path(__file__).parent / "my_resume.pdf"
 
         # Read PDF
         resume_text = read_pdf(resume_path)
