@@ -1,6 +1,12 @@
 # HireMeAI
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-hiremeai--h9do.vercel.app-black?style=for-the-badge&logo=vercel)](https://hiremeai-h9do.vercel.app/)
+[![Backend API](https://img.shields.io/badge/⚙️%20Backend%20API-Render-46E3B7?style=for-the-badge&logo=render)](https://hiremeai-backend-k7cw.onrender.com)
+
+> 🌐 **[https://hiremeai-h9do.vercel.app/](https://hiremeai-h9do.vercel.app/)** — Click to open the live project!
+
 An AI-powered personal portfolio where recruiters and visitors can chat with an AI assistant to learn about Priyanshu Pawar's skills, experience, and background.
+
 
 ## Tech Stack
 
