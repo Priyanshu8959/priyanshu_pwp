@@ -139,7 +139,7 @@ def search(query, top_k=3):
     return results
 
 def search_with_filter(query, query_filter=None, top_k=3):
-x
+
 
     query_vector = model.encode(query).tolist()
 
